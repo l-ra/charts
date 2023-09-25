@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tilesrv2:
+  - apiVersion: v2
+    appVersion: 20230925-1141
+    created: "2023-09-25T11:51:20.844962241+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 02c0f24326f0766806e3809807f2397b70fdcc41ba9833c98dab2f62d2a73d01
+    name: tilesrv2
+    type: application
+    urls:
+    - tilesrv2-1.0.0-20230925-1141.tgz
+    version: 1.0.0-20230925-1141
+generated: "2023-09-25T11:51:20.844419442+02:00"
