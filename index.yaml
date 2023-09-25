@@ -3,7 +3,17 @@ entries:
   tilesrv2:
   - apiVersion: v2
     appVersion: 20230925-1141
-    created: "2023-09-25T12:10:27.625105672+02:00"
+    created: "2023-09-25T12:17:15.23242402+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 9a5e5daeebe5f4fdef943162d9acd321907109e8d748a983f62f6aacbadadeef
+    name: tilesrv2
+    type: application
+    urls:
+    - https://l-ra.github.io/charts/tilesrv2-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 20230925-1141
+    created: "2023-09-25T12:17:15.231862086+02:00"
     description: A Helm chart for Kubernetes
     digest: 02c0f24326f0766806e3809807f2397b70fdcc41ba9833c98dab2f62d2a73d01
     name: tilesrv2
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://l-ra.github.io/charts/tilesrv2-1.0.0-20230925-1141.tgz
     version: 1.0.0-20230925-1141
-generated: "2023-09-25T12:10:27.624494979+02:00"
+generated: "2023-09-25T12:17:15.231105479+02:00"
