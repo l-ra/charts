@@ -9,6 +9,6 @@ entries:
     name: tilesrv2
     type: application
     urls:
-    - tilesrv2-1.0.0-20230925-1141.tgz
+    - https://l-ra.github.io/charts/tilesrv2-1.0.0-20230925-1141.tgz
     version: 1.0.0-20230925-1141
 generated: "2023-09-25T11:51:20.844419442+02:00"
