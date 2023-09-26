@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   tilesrv2:
   - apiVersion: v2
+    appVersion: 20230926-1047
+    created: "2023-09-26T10:47:56.47111396+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 235c0f25980e3afb7098ed43019cdd6906af10a9de3cd624f07b11587772d590
+    name: tilesrv2
+    type: application
+    urls:
+    - tilesrv2-1.14.0.tgz
+    version: 1.14.0
+  - apiVersion: v2
     appVersion: 20230926-1014
-    created: "2023-09-26T10:15:07.083202294+02:00"
+    created: "2023-09-26T10:47:56.470885928+02:00"
     description: A Helm chart for Kubernetes
     digest: 71564140a00c863933ea07ad5838a8a634643e926c53ac89268a123b35a14826
     name: tilesrv2
@@ -13,7 +23,7 @@ entries:
     version: 1.13.0
   - apiVersion: v2
     appVersion: 20230926-1010
-    created: "2023-09-26T10:15:07.082915922+02:00"
+    created: "2023-09-26T10:47:56.470648477+02:00"
     description: A Helm chart for Kubernetes
     digest: 31cc91fee99f9e24e0d224aceef076cf7606ba9190b2d3dffd3df36755824e93
     name: tilesrv2
@@ -23,7 +33,7 @@ entries:
     version: 1.12.0
   - apiVersion: v2
     appVersion: 20230926-1000
-    created: "2023-09-26T10:15:07.082692129+02:00"
+    created: "2023-09-26T10:47:56.470400971+02:00"
     description: A Helm chart for Kubernetes
     digest: 021b0d2488937d7e37240dd3985c21b90e91285229ff5ddc2ca683a408dd9f99
     name: tilesrv2
@@ -33,7 +43,7 @@ entries:
     version: 1.11.0
   - apiVersion: v2
     appVersion: 20230926-0954
-    created: "2023-09-26T10:15:07.082403935+02:00"
+    created: "2023-09-26T10:47:56.47016622+02:00"
     description: A Helm chart for Kubernetes
     digest: 6bc75c598db30427b3f7a35decb31e9a0e09cb5aa76bf8d008599224db0bc969
     name: tilesrv2
@@ -43,7 +53,7 @@ entries:
     version: 1.10.0
   - apiVersion: v2
     appVersion: 20230926-0931
-    created: "2023-09-26T10:15:07.085108935+02:00"
+    created: "2023-09-26T10:47:56.473307117+02:00"
     description: A Helm chart for Kubernetes
     digest: ceee89fe6de8a0b1e5974c0bf765180d3a51e6b72d04cdd29228e14651f64173
     name: tilesrv2
@@ -53,7 +63,7 @@ entries:
     version: 1.9.0
   - apiVersion: v2
     appVersion: 20230925-2308
-    created: "2023-09-26T10:15:07.084797413+02:00"
+    created: "2023-09-26T10:47:56.472749422+02:00"
     description: A Helm chart for Kubernetes
     digest: 7022ba4642bbe92735cc7ee6242478d3aa21e1b2b6aba5ce8b6e40dc3199151d
     name: tilesrv2
@@ -63,7 +73,7 @@ entries:
     version: 1.8.0
   - apiVersion: v2
     appVersion: 20230925-2300
-    created: "2023-09-26T10:15:07.084523348+02:00"
+    created: "2023-09-26T10:47:56.472439502+02:00"
     description: A Helm chart for Kubernetes
     digest: 1c5b57cc85d4849a5dea796ee51b5f982d0737d98fc35a1e59cb28b48b7e08d4
     name: tilesrv2
@@ -73,7 +83,7 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: 20230925-1926
-    created: "2023-09-26T10:15:07.084245043+02:00"
+    created: "2023-09-26T10:47:56.472200517+02:00"
     description: A Helm chart for Kubernetes
     digest: 5e8d790b7d4cc59ac6453e2a2ee5ff79de97889b84b40d8c970af37a5a1b7d26
     name: tilesrv2
@@ -83,7 +93,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 20230925-1912
-    created: "2023-09-26T10:15:07.083996261+02:00"
+    created: "2023-09-26T10:47:56.471939057+02:00"
     description: A Helm chart for Kubernetes
     digest: 282139e865ca71e5db04b033a7506331a0a85bcab1e533d9585bf16f4d670397
     name: tilesrv2
@@ -93,7 +103,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 20230925-1641
-    created: "2023-09-26T10:15:07.083739972+02:00"
+    created: "2023-09-26T10:47:56.471652062+02:00"
     description: A Helm chart for Kubernetes
     digest: d293a22bb776146abd7ecb7a46f1ed1a4499205a8d6f4d44bd7172cfb87bb40a
     name: tilesrv2
@@ -103,7 +113,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 20230925-1225
-    created: "2023-09-26T10:15:07.083451196+02:00"
+    created: "2023-09-26T10:47:56.47134817+02:00"
     description: A Helm chart for Kubernetes
     digest: e08767c1c71b342a424b0ec01d5ebac7dc53b0292601ba8e7387989b1583efb8
     name: tilesrv2
@@ -113,7 +123,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 20230925-1141
-    created: "2023-09-26T10:15:07.082124025+02:00"
+    created: "2023-09-26T10:47:56.469942942+02:00"
     description: A Helm chart for Kubernetes
     digest: 9a5e5daeebe5f4fdef943162d9acd321907109e8d748a983f62f6aacbadadeef
     name: tilesrv2
@@ -121,4 +131,4 @@ entries:
     urls:
     - tilesrv2-1.0.1.tgz
     version: 1.0.1
-generated: "2023-09-26T10:15:07.081769649+02:00"
+generated: "2023-09-26T10:47:56.46953832+02:00"
